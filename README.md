@@ -11,5 +11,5 @@ underlying 3D scene (see second image). This is also called a calibrated two-vie
 </p>
 <br><br>
 <p align="center">
-  <img src="https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj3/html/psachdeva6/vis_arrows_Rushmore_norm.jpg" width=400> 
+  <img src="https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj3/html/psachdeva6/vis_arrows_ND.jpg" width=400> 
 </p>
